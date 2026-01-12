@@ -21,15 +21,15 @@ This dashboard transforms raw HR data into meaningful insights using clear visua
 This is how the project is built step by step:
 ### Data Collection:
 - HR dataset loaded from CSV / Excel
-## Data Cleaning
+### Data Cleaning
 - Removed missing or incorrect values
 - Fixed data types (numbers, categories)
 - Standardized column names
-## Data Analysis
+### Data Analysis
 - Calculated attrition rate
 - Grouped employees by department, age, gender
 - Identified trends and patterns
-## Dashboard Creation
+### Dashboard Creation
 - KPIs created for key metrics
 - Charts and visuals added
 - Filters enabled for interaction
