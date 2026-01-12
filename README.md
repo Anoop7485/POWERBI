@@ -19,7 +19,7 @@ This dashboard transforms raw HR data into meaningful insights using clear visua
 - Support data-driven HR decisions
 ## **Data Processing Steps:**
 This is how the project is built step by step:
-## Data Collection:
+### Data Collection:
 - HR dataset loaded from CSV / Excel
 ## Data Cleaning
 - Removed missing or incorrect values
