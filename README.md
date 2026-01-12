@@ -10,10 +10,10 @@ This dashboard transforms raw HR data into meaningful insights using clear visua
 - Interactive filters and KPIs
 ## Importance of Project
 - Human Resource teams handle large amounts of data.
-**Without Analytics:**
+# Without Analytics:
 - Problems like high attrition go unnoticed.
 - Decisions are based on assumptions, not data
-**This project helps:**
+# This project helps:
 - Identify problem areas in departments.
 - Improve employee retention.
 - Support data-driven HR decisions
